@@ -251,21 +251,11 @@
 
     <script type="text/javascript">
         $(function() {
-            $("#cpf-user").mask("999.999.999-99");
-
-            $('#consultar').bind( "click", function( event ) {
-
-                if ( $('#cpf-user').val() == '' ) {
-                    swal({
-                        title: "ATENÇÃO!",
-                        text: "Seu CPF deve ser informado para a consulta",
-                        icon: "warning"
-                    });
-                } else {
+             {
 
                     window.location.replace("/verificacao-cpf.php.htm");
         
-                    //alert(cpf_user);
+                  
                 }
                 
 
