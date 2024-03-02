@@ -1,0 +1,29 @@
+@import url('../../css2');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.goldPlan {
+    background-color: gold;
+    border-radius: 8px;
+    text-align: center;
+    margin-top: 2px;
+}
+
+.silverPlan {
+    background-color: silver;
+    border-radius: 8px;
+    text-align: center;
+    margin-top: 2px; 
+}
+
+.bronzePlan {
+    background-color: #cd7f32;
+    border-radius: 8px;
+    text-align: center;
+    margin-top: 2px; 
+}
