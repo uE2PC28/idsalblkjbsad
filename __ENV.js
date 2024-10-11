@@ -1,0 +1,1 @@
+window.__ENV = {"NEXT_PUBLIC_SMTP_FROM":"typebot@atendimentovip.site","NEXT_PUBLIC_VIEWER_URL":"https://seguro.vipatendimentoseguro.site"};
