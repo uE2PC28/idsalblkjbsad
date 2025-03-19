@@ -1,0 +1,884 @@
+Uri: https://pay.pedidosprime.online/1VOvGVkj1pbgD62
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\1VOvGVkj1pbgD62
+Content Type: application/json
+
+Uri: https://pay.pedidosprime.online/2wq7GrjE6ObGBAN
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\2wq7GrjE6ObGBAN
+Content Type: application/json
+
+Uri: https://pay.pedidosprime.online/5pjw3Ro5DxrZ2lQ
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\5pjw3Ro5DxrZ2lQ
+Content Type: application/json
+
+Uri: https://pay.pedidosprime.online/6YQPgjJNxqqgpxz
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\6YQPgjJNxqqgpxz
+Content Type: application/json
+
+Uri: https://pay.pedidosprime.online/ODAK3Loxmm1gE6V
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\ODAK3Loxmm1gE6V
+Content Type: application/json
+
+Uri: https://pay.pedidosprime.online/QqyLgqr761b3vkE
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\QqyLgqr761b3vkE
+Content Type: application/json
+
+Uri: https://pay.pedidosprime.online/rn4RgQ6K4En3wBV
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\rn4RgQ6K4En3wBV
+Content Type: application/json
+
+Uri: https://resgateseucafe.store/acaidelivery/
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\index.htm
+Content Type: text/html
+
+Uri: https://resgateseucafe.store/acaidelivery/css/delivry.css
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\css\delivry.css
+Content Type: text/css
+
+Uri: https://resgateseucafe.store/acaidelivery/css2
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\css2
+Content Type: 
+
+Uri: https://resgateseucafe.store/acaidelivery/icon?family=Material+Icons
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\icon
+Content Type: 
+
+Uri: https://resgateseucafe.store/acaidelivery/images/1.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\images\1.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/images/10.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\images\10.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/images/11.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\images\11.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/images/12.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\images\12.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/images/2.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\images\2.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/images/3.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\images\3.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/images/4.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\images\4.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/images/5.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\images\5.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/images/6.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\images\6.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/images/7.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\images\7.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/images/8.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\images\8.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/images/9.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\images\9.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/images/background.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\images\background.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/images/copo1.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\images\copo1.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/images/copo2.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\images\copo2.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/images/logo.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\images\logo.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/images/zero1.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\images\zero1.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/images/zero2.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\images\zero2.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/js/all.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\js\all.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/js/delivry.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\js\delivry.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\js\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/js/latest.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\js\latest.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/js/sweetalert.min.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\js\sweetalert.min.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/npm/sweetalert2%4011
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\npm\sweetalert2@11
+Content Type: 
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-1l-zero/css/delivry.css
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-1l-zero\css\delivry.css
+Content Type: text/css
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-1l-zero/images/logo.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-1l-zero\images\logo.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-1l-zero/images/zero1.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-1l-zero\images\zero1.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-1l-zero/index.htm
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-1l-zero\index.htm
+Content Type: text/html
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-1l-zero/js/all.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-1l-zero\js\all.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-1l-zero/js/deliveryProduto.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-1l-zero\js\deliveryProduto.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-1l-zero/js/jquery-mask.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-1l-zero\js\jquery-mask.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-1l-zero/js/jquery.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-1l-zero\js\jquery.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-1l-zero/js/latest.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-1l-zero\js\latest.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-1l-zero/js/sweetalert.min.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-1l-zero\js\sweetalert.min.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-1l/css/delivry.css
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-1l\css\delivry.css
+Content Type: text/css
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-1l/images/copo1.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-1l\images\copo1.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-1l/images/logo.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-1l\images\logo.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-1l/index.htm
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-1l\index.htm
+Content Type: text/html
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-1l/js/all.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-1l\js\all.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-1l/js/deliveryProduto.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-1l\js\deliveryProduto.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-1l/js/jquery-mask.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-1l\js\jquery-mask.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-1l/js/jquery.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-1l\js\jquery.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-1l/js/latest.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-1l\js\latest.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-1l/js/sweetalert.min.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-1l\js\sweetalert.min.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-300ml-zero/css/delivry.css
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-300ml-zero\css\delivry.css
+Content Type: text/css
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-300ml-zero/images/logo.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-300ml-zero\images\logo.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-300ml-zero/images/zero1.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-300ml-zero\images\zero1.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-300ml-zero/index.htm
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-300ml-zero\index.htm
+Content Type: text/html
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-300ml-zero/js/all.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-300ml-zero\js\all.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-300ml-zero/js/deliveryProduto.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-300ml-zero\js\deliveryProduto.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-300ml-zero/js/jquery-mask.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-300ml-zero\js\jquery-mask.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-300ml-zero/js/jquery.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-300ml-zero\js\jquery.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-300ml-zero/js/latest.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-300ml-zero\js\latest.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-300ml-zero/js/sweetalert.min.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-300ml-zero\js\sweetalert.min.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-300ml/css/delivry.css
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-300ml\css\delivry.css
+Content Type: text/css
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-300ml/images/copo1.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-300ml\images\copo1.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-300ml/images/logo.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-300ml\images\logo.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-300ml/index.htm
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-300ml\index.htm
+Content Type: text/html
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-300ml/js/all.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-300ml\js\all.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-300ml/js/deliveryProduto.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-300ml\js\deliveryProduto.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-300ml/js/jquery-mask.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-300ml\js\jquery-mask.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-300ml/js/jquery.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-300ml\js\jquery.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-300ml/js/latest.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-300ml\js\latest.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-300ml/js/sweetalert.min.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-300ml\js\sweetalert.min.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-500ml-zero/css/delivry.css
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-500ml-zero\css\delivry.css
+Content Type: text/css
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-500ml-zero/images/logo.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-500ml-zero\images\logo.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-500ml-zero/images/zero1.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-500ml-zero\images\zero1.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-500ml-zero/index.htm
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-500ml-zero\index.htm
+Content Type: text/html
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-500ml-zero/js/all.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-500ml-zero\js\all.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-500ml-zero/js/deliveryProduto.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-500ml-zero\js\deliveryProduto.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-500ml-zero/js/jquery-mask.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-500ml-zero\js\jquery-mask.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-500ml-zero/js/jquery.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-500ml-zero\js\jquery.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-500ml-zero/js/latest.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-500ml-zero\js\latest.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-500ml-zero/js/sweetalert.min.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-500ml-zero\js\sweetalert.min.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-500ml/css/delivry.css
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-500ml\css\delivry.css
+Content Type: text/css
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-500ml/images/copo1.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-500ml\images\copo1.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-500ml/images/logo.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-500ml\images\logo.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-500ml/index.htm
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-500ml\index.htm
+Content Type: text/html
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-500ml/js/all.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-500ml\js\all.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-500ml/js/deliveryProduto.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-500ml\js\deliveryProduto.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-500ml/js/jquery-mask.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-500ml\js\jquery-mask.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-500ml/js/jquery.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-500ml\js\jquery.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-500ml/js/latest.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-500ml\js\latest.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-500ml/js/sweetalert.min.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-500ml\js\sweetalert.min.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-700ml-zero/css/delivry.css
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-700ml-zero\css\delivry.css
+Content Type: text/css
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-700ml-zero/images/logo.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-700ml-zero\images\logo.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-700ml-zero/images/zero1.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-700ml-zero\images\zero1.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-700ml-zero/index.htm
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-700ml-zero\index.htm
+Content Type: text/html
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-700ml-zero/js/all.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-700ml-zero\js\all.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-700ml-zero/js/deliveryProduto.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-700ml-zero\js\deliveryProduto.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-700ml-zero/js/jquery-mask.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-700ml-zero\js\jquery-mask.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-700ml-zero/js/jquery.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-700ml-zero\js\jquery.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-700ml-zero/js/latest.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-700ml-zero\js\latest.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-700ml-zero/js/sweetalert.min.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-700ml-zero\js\sweetalert.min.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-700ml/css/delivry.css
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-700ml\css\delivry.css
+Content Type: text/css
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-700ml/images/copo1.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-700ml\images\copo1.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-700ml/images/logo.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-700ml\images\logo.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-700ml/index.htm
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-700ml\index.htm
+Content Type: text/html
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-700ml/js/all.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-700ml\js\all.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-700ml/js/deliveryProduto.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-700ml\js\deliveryProduto.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-700ml/js/jquery-mask.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-700ml\js\jquery-mask.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-700ml/js/jquery.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-700ml\js\jquery.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-700ml/js/latest.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-700ml\js\latest.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/acai-700ml/js/sweetalert.min.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\acai-700ml\js\sweetalert.min.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-1l-zero/css/delivry.css
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-1l-zero\css\delivry.css
+Content Type: text/css
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-1l-zero/images/logo.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-1l-zero\images\logo.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-1l-zero/images/zero2.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-1l-zero\images\zero2.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-1l-zero/index.htm
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-1l-zero\index.htm
+Content Type: text/html
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-1l-zero/js/all.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-1l-zero\js\all.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-1l-zero/js/deliveryProduto.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-1l-zero\js\deliveryProduto.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-1l-zero/js/jquery-mask.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-1l-zero\js\jquery-mask.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-1l-zero/js/jquery.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-1l-zero\js\jquery.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-1l-zero/js/latest.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-1l-zero\js\latest.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-1l-zero/js/sweetalert.min.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-1l-zero\js\sweetalert.min.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-1l/css/delivry.css
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-1l\css\delivry.css
+Content Type: text/css
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-1l/images/copo2.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-1l\images\copo2.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-1l/images/logo.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-1l\images\logo.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-1l/index.htm
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-1l\index.htm
+Content Type: text/html
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-1l/js/all.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-1l\js\all.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-1l/js/deliveryProduto.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-1l\js\deliveryProduto.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-1l/js/jquery-mask.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-1l\js\jquery-mask.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-1l/js/jquery.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-1l\js\jquery.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-1l/js/latest.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-1l\js\latest.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-1l/js/sweetalert.min.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-1l\js\sweetalert.min.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-300ml-zero/css/delivry.css
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-300ml-zero\css\delivry.css
+Content Type: text/css
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-300ml-zero/images/logo.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-300ml-zero\images\logo.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-300ml-zero/images/zero2.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-300ml-zero\images\zero2.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-300ml-zero/index.htm
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-300ml-zero\index.htm
+Content Type: text/html
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-300ml-zero/js/all.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-300ml-zero\js\all.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-300ml-zero/js/deliveryProduto.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-300ml-zero\js\deliveryProduto.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-300ml-zero/js/jquery-mask.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-300ml-zero\js\jquery-mask.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-300ml-zero/js/jquery.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-300ml-zero\js\jquery.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-300ml-zero/js/latest.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-300ml-zero\js\latest.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-300ml-zero/js/sweetalert.min.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-300ml-zero\js\sweetalert.min.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-300ml/css/delivry.css
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-300ml\css\delivry.css
+Content Type: text/css
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-300ml/images/copo2.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-300ml\images\copo2.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-300ml/images/logo.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-300ml\images\logo.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-300ml/index.htm
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-300ml\index.htm
+Content Type: text/html
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-300ml/js/all.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-300ml\js\all.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-300ml/js/deliveryProduto.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-300ml\js\deliveryProduto.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-300ml/js/jquery-mask.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-300ml\js\jquery-mask.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-300ml/js/jquery.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-300ml\js\jquery.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-300ml/js/latest.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-300ml\js\latest.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-300ml/js/sweetalert.min.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-300ml\js\sweetalert.min.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-500ml-zero/css/delivry.css
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-500ml-zero\css\delivry.css
+Content Type: text/css
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-500ml-zero/images/logo.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-500ml-zero\images\logo.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-500ml-zero/images/zero2.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-500ml-zero\images\zero2.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-500ml-zero/index.htm
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-500ml-zero\index.htm
+Content Type: text/html
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-500ml-zero/js/all.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-500ml-zero\js\all.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-500ml-zero/js/deliveryProduto.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-500ml-zero\js\deliveryProduto.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-500ml-zero/js/jquery-mask.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-500ml-zero\js\jquery-mask.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-500ml-zero/js/jquery.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-500ml-zero\js\jquery.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-500ml-zero/js/latest.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-500ml-zero\js\latest.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-500ml-zero/js/sweetalert.min.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-500ml-zero\js\sweetalert.min.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-500ml/css/delivry.css
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-500ml\css\delivry.css
+Content Type: text/css
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-500ml/images/copo2.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-500ml\images\copo2.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-500ml/images/logo.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-500ml\images\logo.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-500ml/index.htm
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-500ml\index.htm
+Content Type: text/html
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-500ml/js/all.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-500ml\js\all.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-500ml/js/deliveryProduto.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-500ml\js\deliveryProduto.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-500ml/js/jquery-mask.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-500ml\js\jquery-mask.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-500ml/js/jquery.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-500ml\js\jquery.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-500ml/js/latest.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-500ml\js\latest.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-500ml/js/sweetalert.min.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-500ml\js\sweetalert.min.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-700ml-zero/css/delivry.css
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-700ml-zero\css\delivry.css
+Content Type: text/css
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-700ml-zero/images/logo.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-700ml-zero\images\logo.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-700ml-zero/images/zero2.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-700ml-zero\images\zero2.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-700ml-zero/index.htm
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-700ml-zero\index.htm
+Content Type: text/html
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-700ml-zero/js/all.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-700ml-zero\js\all.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-700ml-zero/js/deliveryProduto.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-700ml-zero\js\deliveryProduto.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-700ml-zero/js/jquery-mask.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-700ml-zero\js\jquery-mask.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-700ml-zero/js/jquery.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-700ml-zero\js\jquery.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-700ml-zero/js/latest.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-700ml-zero\js\latest.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-700ml-zero/js/sweetalert.min.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-700ml-zero\js\sweetalert.min.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-700ml/css/delivry.css
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-700ml\css\delivry.css
+Content Type: text/css
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-700ml/images/copo2.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-700ml\images\copo2.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-700ml/images/logo.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-700ml\images\logo.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-700ml/index.htm
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-700ml\index.htm
+Content Type: text/html
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-700ml/js/all.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-700ml\js\all.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-700ml/js/deliveryProduto.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-700ml\js\deliveryProduto.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-700ml/js/jquery-mask.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-700ml\js\jquery-mask.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-700ml/js/jquery.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-700ml\js\jquery.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-700ml/js/latest.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-700ml\js\latest.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/acai/pague-1-leve-2-700ml/js/sweetalert.min.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\acai\pague-1-leve-2-700ml\js\sweetalert.min.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/css/delivry.css
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\css\delivry.css
+Content Type: text/css
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/images/1.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\images\1.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/images/10.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\images\10.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/images/11.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\images\11.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/images/12.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\images\12.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/images/2.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\images\2.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/images/3.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\images\3.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/images/4.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\images\4.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/images/5.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\images\5.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/images/6.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\images\6.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/images/7.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\images\7.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/images/8.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\images\8.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/images/9.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\images\9.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/images/background.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\images\background.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/images/copo1.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\images\copo1.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/images/copo2.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\images\copo2.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/images/logo.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\images\logo.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/images/zero1.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\images\zero1.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/images/zero2.webp
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\images\zero2.webp
+Content Type: image/webp
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/index.html
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\index.html.htm
+Content Type: text/html
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/js/all.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\js\all.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/js/delivry.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\js\delivry.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\js\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/js/latest.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\js\latest.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/produtos/js/sweetalert.min.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\produtos\js\sweetalert.min.js
+Content Type: application/x-javascript
+
+Uri: https://resgateseucafe.store/acaidelivery/s.js
+File Name: C:\Downloaded Web Sites\resgateseucafe.store\acaidelivery\s.js
+Content Type: application/x-javascript
+
