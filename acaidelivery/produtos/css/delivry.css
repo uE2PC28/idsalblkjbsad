@@ -1895,6 +1895,14 @@ input::placeholder {
     }
 }
 
+.logo-text {
+    font-family: 'Poppins', sans-serif; /* Altere para a fonte correta */
+    font-size: 40px; /* Ajuste conforme necessário */
+    font-weight: bold;
+    color: #4C1D54; /* Ajuste a cor exata do texto */
+    letter-spacing: 1px;
+}
+
 .box {
     padding: .8rem 0rem;
     display: flex;
